@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <title>Hnat B&B Rooms</title>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Welcome to the Hnat B&B booking website's rooms section! Here you can find rooms which are aviable in our lovely B&B. We are happy to find the destination for your holidays.">
+    <meta name="keywords" content="B&B, Hnat, Hnat B&B, night lodging, booking, rooms">
+    <meta name="author" content="Hnat Hospitality">
+    <meta name="copyright" content="Hnat B&B">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link href='style.css' rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" type="image/x-icon" href="imgs/favicon.ico">
+  </head>
+  <body>
+  <button class="backtotopbtn" id="backToTopBtn" aria-label="Back to top">
+  
+    <i class="fas fa-arrow-up"></i>
+  </button>
+
+  <script>                                               <!--https://www.w3schools.com/howto/howto_js_scroll_to_top.asp-->
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+      if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+        document.getElementById("backToTopBtn").style.display = "block";
+      } else {
+        document.getElementById("backToTopBtn").style.display = "none";
+      }
+    }
+
+    document.getElementById("backToTopBtn").addEventListener("click", function() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    });
+  </script>
+  <div class="stick ">
+              <nav>
+                  
+                  <a href="index.html">Home</a> <a href="rooms.html" class="selected">Rooms</a> 
+                  <a href="contactus.html">Contact Us</a>
+              </nav>
+          </div>
+          
+    <div class="cards">
+    
+  <div class="card" onclick="location.href='bookroom.html';">
+    <img src="imgs/image7.png" alt="Cozy Single room photo">
+    <div class="text">
+      <h3>Cozy Single Room</h3>
+      <p>A small but comfortable room with a single bed, suitable for solo travelers 
+      or those on a budget..</p>
+     
+    </div> <button>Book Now!</button>
+    <div class="status">
+    <h2 class="available">Available</h2>
+    </div>
+  </div>
+  <div class="card">
+    <img src="imgs/image2.png" alt="Standard Double Room photo">
+    <div class="text">
+      <h3>Standard Double Room</h3>
+      <p>A cozy room with a double bed, usually with an en-suite bathroom.</p>
+      <button>Book Now!</button>
+      <div class="status">
+    <h2 class="notavailable">Not Available</h2>
+    </div>
+    </div>
+  </div>
+  <div class="card">
+    <img src="imgs/image3.png" alt="Family Suite Room photo">
+    <div class="text">
+      <h3>Family Suite</h3>
+      <p>A larger room with a double bed and an additional bed or sofa bed, suitable for 
+      families or groups of friends. It may have an en-suite bathroom or a shared bathroom.</p>
+      <button>Book Now!</button>
+      <div class="status">
+    <h2 class="notavailable">Not Available</h2>
+    </div>
+    </div>
+  </div>
+  <div class="card">
+    <img src="imgs/image4.png" alt="Superior King Room photo">
+    <div class="text">
+      <h3>Superior King Room</h3>
+      <p>A spacious room with a king-size bed, typically with high-end amenities such as a 
+      fireplace, a jacuzzi, or a balcony.</p>
+      <button>Book Now!</button>
+      <div class="status">
+    <h2 class="notavailable">Not Available</h2>
+    </div>
+    </div>
+  </div>
+  <div class="card">
+    <img src="imgs/image5.png" alt="Garden View Room photo">
+    <div class="text">
+      <h3>Garden View Room</h3>
+      <p>A room with a view of the B&B's gardens, usually 
+      with a comfortable double bed and an en-suite bathroom.</p>
+      <button>Book Now!</button>
+      <div class="status">
+    <h2 class="notavailable">Not Available</h2>
+    </div>
+    </div>
+  </div>
+  <div class="card">
+    <img src="imgs/image6.png" alt="Loft Room photo">
+    <div class="text">
+      <h3>Loft Room</h3>
+      <p>An attic-style room with sloping ceilings, often with a double bed, 
+      suitable for couples or solo travelers looking for a unique experience.</p>
+      <button>Book Now!</button>
+      <div class="status">
+    <h2 class="notavailable">Not Available</h2>
+    </div>
+    </div>
+  </div>
+  
+</div>
+
+<footer>
+         <div class="footer">
+            <div class="row">
+                 <a href="https://www.facebook.com"><i class="fab fa-facebook-f"></i></a> <!--Sorry, Facebook required too much information about me. I don't like this kind of stuff-->
+                 <a href="https://discord.gg/4AYUGFVH"><i class="fab fa-discord"></i></a>
+                 <a href="https://www.instagram.com/hnatbandb?igshid=YmMyMTA2M2Y="><i class="fab fa-instagram"></i></a>
+            </div>
+            <!--https://codepen.io-->
+            <div class="row">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="rooms.html">Rooms </a></li>
+                    <li><a href="contactus.html">Contact Us</a></li>
+                </ul>
+            </div>
+
+            <div class="row">
+            Hnat B&B&copy; 2023 MTU - All rights reserved || Designed By: Roman Hnat
+            </div>
+            </div>
+         </footer>
+          
+  </body>
+</html>

@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <title>Hnat B&B</title>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Welcome to the Hnat B&B booking website! Here you can find any accomodation you need. We are happy to find the destination for your holidays.">
+    <meta name="keywords" content="B&B, Hnat, Hnat B&B, night lodging, booking">
+    <meta name="author" content="Hnat Hospitality">
+    <meta name="copyright" content="Hnat B&B">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link href='style.css' rel='stylesheet' type='text/css'>
+     <link rel="shortcut icon" type="image/x-icon" href="imgs/favicon.ico">
+  </head>
+  <body>
+  
+  <button class="backtotopbtn" id="backToTopBtn" aria-label="Back to top">
+  
+    <i class="fas fa-arrow-up"></i>
+  </button>
+
+  <script>                                               <!--https://www.w3schools.com/howto/howto_js_scroll_to_top.asp-->
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+      if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+        document.getElementById("backToTopBtn").style.display = "block";
+      } else {
+        document.getElementById("backToTopBtn").style.display = "none";
+      }
+    }
+
+    document.getElementById("backToTopBtn").addEventListener("click", function() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    });
+  </script>
+  
+  <div class="decortoppage">
+    <div class="verh">
+          <div class="stick ">
+              <nav>
+                  <a href="index.html" class="selected">Home</a> <a href="rooms.html">Rooms</a> 
+                  <a href="contactus.html">Contact Us</a>
+              </nav>
+          </div>
+          <div class="homepageheader"> <h1>Hnat B&B</h1> </div>
+    </div>
+  </div>
+    <div class="mainsectionhome">
+    
+        <h2>Welcome to our lovely B&B!</h2>
+        
+        <div class="grid">
+            <div class="grid-item"><p>Welcome to Hnat B&B, where high-tech meets minimalistic design. 
+                    Our B&B is the perfect place for travelers who appreciate modern amenities and sleek, 
+                    stylish decor.
+                    Our property features a clean and contemporary design with minimalist furnishings 
+                    and high-tech features. Whether you're staying in our private rooms or shared spaces,
+                    you'll enjoy a comfortable and sophisticated stay.
+                    At Hnat B&B, we're committed to providing our guests with the best possible experience.
+                    That's why we offer a range of amenities, including high-speed Wi-Fi, flat-screen TVs, 
+                    and smart home devices. You can control the lighting, temperature, and other features 
+                    in your room with just a few taps on your smartphone.
+                    Our B&B also has a variety of communal spaces, including a lounge area, a fully 
+                    equipped kitchen, and a rooftop terrace with stunning city views. It's the perfect 
+                    spot to relax after a day of sightseeing or to catch up with other guests.
+                    Ready to book your stay at Hnat B&B? Click the  <a href="rooms.html">Rooms</a> button to check availability 
+                    and secure your reservation.</p>
+            </div>
+            <picture class="grid-item">
+                <source media="(max-width:991.98px)" srcset="imgs/fasad3.png">
+                <source media="(max-width:1408px)" srcset="imgs/fasad2.png">
+                <img src="imgs/fasad.png" alt="Hnat B&B">
+            </picture>
+        </div>
+        <h2>Explore our Leisurements!</h2> 
+        
+        <div class="grid2">
+        
+        <div class="grid2-item">
+            <p>The rooftop swimming pool at Hnat B&B is a true gem. Located on the top floor of 
+            the building, it offers breathtaking views of the surrounding cityscape and provides 
+            a refreshing oasis for our guests.
+                The pool area is designed with comfortable lounge chairs and umbrellas, providing 
+                the perfect spot to enjoy a good book or catch up on some work while taking in the 
+                stunning scenery. The pool itself is well-maintained and cleaned regularly, ensuring 
+                a safe and enjoyable swimming experience for all.
+                In the evenings, the rooftop pool area transforms into a magical space with beautiful 
+                lighting and a cozy atmosphere. It's the perfect place to wind down after a busy day 
+                of exploring the city, and to enjoy a glass of wine or a cocktail while taking in the 
+                stunning views of the city skyline.</p>
+        </div>
+        <div class="grid2-item">
+            <div class="grid2sub">
+                <img class="grid2sub-item" src="imgs/pool1.png" alt="Swimming pool photo">
+                <img class="grid2sub-item" src="imgs/pool2.png" alt="Swimming pool photo">
+            </div>
+        </div>  
+        <div class="grid2-item">
+            <p>The lobby at Hnat B&B is a warm and inviting space designed for relaxation 
+            and socialization. The lodge is a great spot to gather with friends or meet other 
+            guests, and it offers a range of entertainment options to keep you occupied during your 
+            stay.
+                The lodge features a large flat-screen television, complete with a range of cable 
+                channels and streaming services. Whether you're in the mood for catching up on the 
+                latest sports game or watching a movie, our television has you covered.
+                guests who enjoy gaming, the lodge also features several gaming consoles, 
+                including PlayStation, Xbox, and Nintendo Switch.
+                The lodge also offers a range of board games and card games. Whether you're in the 
+                mood for a game of Monopoly or a hand of poker, our collection of games has 
+                something for everyone.
+                The lodge is furnished with comfortable sofas and armchairs, 
+                making it the perfect spot to read a book or catch up on work.</p>
+        </div>
+        <div class="grid2-item">
+            <div class="grid2sub">
+                <img class="grid2sub-item" src="imgs/lobby1.png" alt="Lobby photo">
+                <img class="grid2sub-item" src="imgs/lobby2.png" alt="Lobby photo">
+            </div>
+        </div>  
+           
+        </div>
+        <h2>Find your Location!</h2>
+        <div class="locationclass"><p>Your current location is:</p>
+  <div id="location"></div>
+  <div id="map"></div>
+
+  <script src="https://maps.googleapis.com/maps/api/js?key="></script>
+  <script>
+    function showLocation(position) {
+      var latitude = position.coords.latitude;
+      var longitude = position.coords.longitude;
+      var location = document.getElementById("location");
+      location.innerHTML = "Latitude: " + latitude + ", Longitude: " + longitude;
+
+      var mapOptions = {
+        center: new google.maps.LatLng(latitude, longitude),
+        zoom: 12
+      };
+      var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+
+      var marker = new google.maps.Marker({
+        position: new google.maps.LatLng(latitude, longitude),
+        map: map
+      });
+    }
+
+    function getLocation() {
+      if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showLocation);
+      } else {
+        location.innerHTML = "Geolocation is not supported by this browser.";
+      }
+    }
+
+    getLocation();
+  </script>
+
+    </div>
+    </div>
+    <footer>
+         <div class="footer">
+            <div class="row">
+                 <a href="https://www.facebook.com"><i class="fab fa-facebook-f"></i></a> <!--Sorry, Facebook required too much information about me. I don't like this kind of stuff-->
+                 <a href="https://discord.gg/4AYUGFVH"><i class="fab fa-discord"></i></a>
+                 <a href="https://www.instagram.com/hnatbandb?igshid=YmMyMTA2M2Y="><i class="fab fa-instagram"></i></a>
+            </div>
+            <!--https://codepen.io-->
+            <div class="row">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="rooms.html">Rooms </a></li>
+                    <li><a href="contactus.html">Contact Us</a></li>
+                </ul>
+            </div>
+
+            <div class="row">
+            Hnat B&B&copy; 2023 MTU - All rights reserved || Designed By: Roman Hnat
+            </div>
+            </div>
+         </footer>
+    
+  </body>
+</html>
