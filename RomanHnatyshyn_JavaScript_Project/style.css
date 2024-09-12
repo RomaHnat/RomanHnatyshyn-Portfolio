@@ -1,0 +1,253 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.backgroundmain {
+    background-image: url("images/backgroundmain.jpg");
+    height: 100vh;
+    position: relative;
+    background-size: 100% auto;
+    background-position: center center;
+    max-height: 100vh;
+}
+
+.mainpagecenter {
+    margin-top: 8%;
+    text-align: center; 
+}
+
+.mainpageheader {
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 5em;
+    top: 0%;
+    left: 35%;
+    font-family: Arial, sans-serif;
+}
+
+.mainpagecenter a {
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 2.5em;
+    margin-top: 3em;  
+    top:0%;
+    left:38.5%;
+    text-decoration: none;
+    border: 0.1em solid #CCCCCC;
+    padding: 1.7%;
+    border-radius: 2em;
+    font-family: Arial, sans-serif;
+}
+
+.mainpagecenter a:hover {
+    color: #000000;
+    transition: 0.15s;
+    background-color: #FFFFFF;
+}
+
+.introduction {
+    color: #FFFFFF;
+    position: absolute;
+    top: 85%; 
+    width: 80%;
+    left: 50%;
+    margin-left: -40%; 
+    font-size: 1.5em;
+    font-family: Arial, sans-serif;
+}
+
+#timeleft{
+    font-size: 0.9em; 
+    color: #CCC;
+}
+
+.countdownmain{
+    color: #FFFFFF;
+    position: absolute;
+    top:38%;
+    width:50%;
+    left:23%;
+    font-size: 1.5em;
+    font-family: Arial, sans-serif;
+}
+
+.backgroundquiz{
+    background-image: url("images/backgroundquiz.jpg");
+    height: 100vh;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: center center;
+}
+
+.quizpageheader {
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 5em;
+    top: 0%;
+    left: 12%;
+    top:2%;
+    font-family: Arial, sans-serif;
+}
+
+.questions{
+color: #FFFFFF;
+position: absolute;
+top:25%;
+width: 50%;
+left: 2%;
+font-size: 2em;
+}
+
+.questions label{
+    margin-left:2%;
+    margin-top: 5%;
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+}
+
+#questionp{
+    text-align: justify;
+    text-indent: 1em;
+    font-family: Arial, sans-serif;
+}
+
+#nextquestion{
+    position:absolute;
+    top: 80%;
+    left:20%;
+    font-size:2.3em;
+    padding:0.8%;
+    border-radius: 1em;
+    border-color: #000000;
+    border-width: 0.1em;
+    cursor: pointer;
+}
+
+#nextquestion:hover{
+    background-color: #3c3a3a;
+    color:#FFFFFF;
+}
+
+.backgroundresults{
+    background: url("images/resultsbackground.jpeg") center / cover no-repeat fixed;
+    min-height: 100vh;
+    position: relative;
+    font-family: Arial, sans-serif;
+}
+
+.resultspageheader{
+    text-align: center;
+    margin-top: 5%;
+    color: #FFFFFF;
+    font-size: 5em;
+}
+
+#hintbutton{
+    background-image: url("images/questionmark.png");
+    position: absolute;
+    left: 90%;
+    top: 80%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 13vh;
+    width: 6%;
+    background-position: center center;
+    cursor: pointer;
+}
+
+#hintbutton p{
+    color: #000000;
+    font-size: 2em;
+    background-color: #CCCCCC;
+    border-radius: 2em;
+    padding: 2%;
+    text-align: center;
+    width:50%;
+    position: absolute;
+    top: 60%;
+    right: 60%;
+}
+
+#speechbubble{
+    background-image: url("images/speechbubble.png");
+    position: absolute;
+    left: 75%;
+    top: 55%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center center;
+    height: 30vh;
+    width: 17%;
+    visibility:hidden;
+}
+
+#speechbubble p{
+    margin-top: 5%;
+    margin-left:14%;
+    margin-right:12%;
+    font-size: 1.5em;
+    font-family: Arial, sans-serif;
+}
+
+input[type="radio"] {
+    appearance: none;
+    width: 1.5em;
+    height: 1.5em;
+    border: 0.2em solid #333;
+    border-radius: 50%;
+    outline: none;
+    cursor: pointer;
+    margin-top: 5%;
+    margin-left:3%;
+  }
+
+input[type = "radio"]:not(:checked) {
+    background-color: #000000;
+  }
+  
+input[type = "radio"]:checked {
+    background-color: #000000;
+    border-color: #FFFFFF;
+  }
+
+  #resultsdiv{
+    text-align: center;
+    margin-top: 5%;
+    color: #FFFFFF;
+    font-size: 1.5em;
+  }
+
+  #resultsdiv h3{
+    text-align: center;
+  }
+
+  #resultsp{
+    margin-top: 7%;
+    margin-bottom: 5%;
+  }
+
+  #resultsp p{
+    text-align: left;
+    margin-top: 3%;
+    margin-left: 5%;
+  }
+
+  .incorrect {
+    color: #f90202;
+  }
+
+  .correct {
+    color: #66CC33;
+  }
+
+  .questiontag {
+    font-size: 1.5em;
+  }
+
+  #resultsp h1{
+    text-align: center;
+    font-size: 3em;
+  }

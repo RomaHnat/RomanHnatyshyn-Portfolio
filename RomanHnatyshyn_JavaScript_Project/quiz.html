@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Its Car-O-Quiz! Answer all the questions! Good luck, driver!">
+    <meta name="keywords" content="Car, Quiz, Car Brands, Car Quiz">
+    <meta name="author" content="Hnat Groups">
+    <meta name="copyright" content="Car-O-Quiz">
+    <link rel="stylesheet" href="style.css" type='text/css'>
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+    <title>Car-O-Quiz</title>
+</head>
+<body onload="sortQuestionsAndAns()" class="backgroundquiz">
+
+        <h1 class="quizpageheader">Question <span id="numberofquestion"></span>/5</h1>
+
+        <div class="questions">
+
+            <p id="questionp"></p>
+            <form id="radiobuttons">
+                <input type = "radio" value="" name="options" id="radio1"><label id="option1p" for="radio1"> </label><br>
+                <input type = "radio" value="" name="options" id="radio2"><label id="option2p" for="radio2"></label><br>
+                <input type = "radio" value="" name="options" id="radio3"><label id="option3p" for="radio3"></label><br>
+                <input type = "radio" value="" name="options" id="radio4"><label id="option4p" for="radio4"></label><br>
+            </form>
+        </div>
+
+        <button id="nextquestion">Next Question</button>
+    
+        <div id = "hintbutton"><p><strong id="numberofhints">2</strong></p></div>
+
+        <div id = "speechbubble">
+
+          
+
+        </div>
+
+        <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
