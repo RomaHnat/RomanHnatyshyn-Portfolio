@@ -1,0 +1,340 @@
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\bin\Debug\EquipmentSYS.exe.config
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\bin\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\bin\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.AssemblyReference.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.frmAnalyseCategoryProfit.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.frmCancelRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.frmDeregisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.frmMainMenu.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.frmPlaceRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordCollection.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordReturn.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.frmRegisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.frmYearlyRevenueAnalysis.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.Properties.Resources.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.GenerateResource.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.CopyComplete
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject10\EquipmentSYS\obj\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\bin\Debug\EquipmentSYS.exe.config
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\bin\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\bin\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.AssemblyReference.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.frmAnalyseCategoryProfit.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.frmCancelRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.frmDeregisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.frmMainMenu.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.frmPlaceRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordCollection.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordReturn.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.frmRegisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.frmYearlyRevenueAnalysis.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.Properties.Resources.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.GenerateResource.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.CopyComplete
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject11\EquipmentSYS\obj\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\bin\Debug\EquipmentSYS.exe.config
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\bin\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\bin\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.AssemblyReference.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.frmAnalyseCategoryProfit.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.frmCancelRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.frmDeregisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.frmMainMenu.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.frmPlaceRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordCollection.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordReturn.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.frmRegisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.frmYearlyRevenueAnalysis.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.Properties.Resources.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.GenerateResource.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.CopyComplete
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject12\EquipmentSYS\obj\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\bin\Debug\EquipmentSYS.exe.config
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\bin\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\bin\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.AssemblyReference.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.frmAnalyseCategoryProfit.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.frmCancelRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.frmDeregisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.frmMainMenu.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.frmPlaceRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordCollection.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordReturn.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.frmRegisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.frmYearlyRevenueAnalysis.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.Properties.Resources.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.GenerateResource.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\Equipmen.B3B2E4DD.Up2Date
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject13\EquipmentSYS\obj\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\bin\Debug\EquipmentSYS.exe.config
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\bin\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\bin\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.AssemblyReference.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.frmAnalyseCategoryProfit.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.frmCancelRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.frmDeregisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.frmMainMenu.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.frmPlaceRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordCollection.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordReturn.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.frmRegisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.frmYearlyRevenueAnalysis.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.Properties.Resources.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.GenerateResource.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\Equipmen.B3B2E4DD.Up2Date
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject14\EquipmentSYS\obj\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\bin\Debug\EquipmentSYS.exe.config
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\bin\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\bin\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.AssemblyReference.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmAnalyseCategoryProfit.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmCancelRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmDeregisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmMainMenu.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmPlaceRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordCollection.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordReturn.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmRegisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmYearlyRevenueAnalysis.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.Properties.Resources.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.GenerateResource.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\Equipmen.B3B2E4DD.Up2Date
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\bin\Debug\EquipmentSYS.exe.config
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\bin\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\bin\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.AssemblyReference.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.frmAnalyseCategoryProfit.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.frmCancelRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.frmDeregisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.frmMainMenu.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.frmPlaceRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordCollection.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordReturn.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.frmRegisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.frmYearlyRevenueAnalysis.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.Properties.Resources.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.GenerateResource.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\Equipmen.B3B2E4DD.Up2Date
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject NO WAY\EquipmentSYS\obj\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\bin\Debug\EquipmentSYS.exe.config
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\bin\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\bin\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.AssemblyReference.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmAnalyseCategoryProfit.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmCancelRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmDeregisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmMainMenu.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmPlaceRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordCollection.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordReturn.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmRegisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.frmYearlyRevenueAnalysis.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.Properties.Resources.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.GenerateResource.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\Equipmen.B3B2E4DD.Up2Date
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject NEARLY FINISHED\EquipmentSYS\obj\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\bin\Debug\EquipmentSYS.exe.config
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\bin\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\bin\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.AssemblyReference.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.frmAnalyseCategoryProfit.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.frmCancelRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.frmDeregisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.frmMainMenu.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.frmPlaceRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordCollection.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordReturn.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.frmRegisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.frmYearlyRevenueAnalysis.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.Properties.Resources.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.GenerateResource.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\Equipmen.B3B2E4DD.Up2Date
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA\EquipmentSYS\obj\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\bin\Debug\EquipmentSYS.exe.config
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\bin\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\bin\Debug\EquipmentSYS.pdb
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\bin\Debug\System.Buffers.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\bin\Debug\System.Memory.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\bin\Debug\System.Formats.Asn1.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\bin\Debug\System.Text.Json.xml
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.AssemblyReference.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.frmAddEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.frmAnalyseCategoryProfit.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.frmCancelRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.frmDeregisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.frmMainMenu.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.frmPlaceRental.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordCollection.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.frmRecordReturn.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.frmRegisterClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateClient.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipment.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.frmUpdateEquipmentCategory.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.frmYearlyRevenueAnalysis.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.Properties.Resources.resources
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.GenerateResource.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\Equipmen.B3B2E4DD.Up2Date
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.exe
+C:\Users\t00228949\Desktop\EquipmentSYSProject FINITO URAA 2\EquipmentSYS\obj\Debug\EquipmentSYS.pdb

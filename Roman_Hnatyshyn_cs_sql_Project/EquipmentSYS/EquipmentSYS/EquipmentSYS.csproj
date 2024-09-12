@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E725C7D2-F5BB-484D-A0CE-DEAAE876B87E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>EquipmentSYS</RootNamespace>
+    <AssemblyName>EquipmentSYS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.21.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.21.13.0\lib\net462\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Formats.Asn1, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Formats.Asn1.7.0.0\lib\net462\System.Formats.Asn1.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.6.0.0\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=6.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.6.0.1\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs" />
+    <Compile Include="Category.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="DBConnect.cs" />
+    <Compile Include="Equipment.cs" />
+    <Compile Include="Perform Admin\frmAnalyseCategoryProfit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perform Admin\frmAnalyseCategoryProfit.Designer.cs">
+      <DependentUpon>frmAnalyseCategoryProfit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Process Rentals\frmCancelRental.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Process Rentals\frmCancelRental.Designer.cs">
+      <DependentUpon>frmCancelRental.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage Clients\frmDeregisterClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Clients\frmDeregisterClient.Designer.cs">
+      <DependentUpon>frmDeregisterClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Process Rentals\frmPlaceRental.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Process Rentals\frmPlaceRental.Designer.cs">
+      <DependentUpon>frmPlaceRental.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Process Rentals\frmRecordCollection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Process Rentals\frmRecordCollection.Designer.cs">
+      <DependentUpon>frmRecordCollection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Process Rentals\frmRecordReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Process Rentals\frmRecordReturn.Designer.cs">
+      <DependentUpon>frmRecordReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage Clients\frmRegisterClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Clients\frmRegisterClient.Designer.cs">
+      <DependentUpon>frmRegisterClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainMenu.Designer.cs">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage Equipment\frmAddEquipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Equipment\frmAddEquipment.Designer.cs">
+      <DependentUpon>frmAddEquipment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage Equipment\frmAddEquipmentCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Equipment\frmAddEquipmentCategory.Designer.cs">
+      <DependentUpon>frmAddEquipmentCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage Clients\frmUpdateClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Clients\frmUpdateClient.Designer.cs">
+      <DependentUpon>frmUpdateClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage Equipment\frmUpdateEquipmentCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Equipment\frmUpdateEquipmentCategory.Designer.cs">
+      <DependentUpon>frmUpdateEquipmentCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Perform Admin\frmYearlyRevenueAnalysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perform Admin\frmYearlyRevenueAnalysis.Designer.cs">
+      <DependentUpon>frmYearlyRevenueAnalysis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Manage Equipment\frmUpdateEquipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Equipment\frmUpdateEquipment.Designer.cs">
+      <DependentUpon>frmUpdateEquipment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rental.cs" />
+    <Compile Include="RentalItem.cs" />
+    <Compile Include="Utility.cs" />
+    <EmbeddedResource Include="Manage Equipment\frmAddEquipment.resx">
+      <DependentUpon>frmAddEquipment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage Equipment\frmAddEquipmentCategory.resx">
+      <DependentUpon>frmAddEquipmentCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perform Admin\frmAnalyseCategoryProfit.resx">
+      <DependentUpon>frmAnalyseCategoryProfit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Process Rentals\frmCancelRental.resx">
+      <DependentUpon>frmCancelRental.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage Clients\frmDeregisterClient.resx">
+      <DependentUpon>frmDeregisterClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainMenu.resx">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Process Rentals\frmPlaceRental.resx">
+      <DependentUpon>frmPlaceRental.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Process Rentals\frmRecordCollection.resx">
+      <DependentUpon>frmRecordCollection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Process Rentals\frmRecordReturn.resx">
+      <DependentUpon>frmRecordReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage Clients\frmRegisterClient.resx">
+      <DependentUpon>frmRegisterClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage Clients\frmUpdateClient.resx">
+      <DependentUpon>frmUpdateClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage Equipment\frmUpdateEquipment.resx">
+      <DependentUpon>frmUpdateEquipment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage Equipment\frmUpdateEquipmentCategory.resx">
+      <DependentUpon>frmUpdateEquipmentCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perform Admin\frmYearlyRevenueAnalysis.resx">
+      <DependentUpon>frmYearlyRevenueAnalysis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Oracle.DataAccess.Common.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Oracle.ManagedDataAccess.Client.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Text.Json.6.0.1\build\System.Text.Json.targets" Condition="Exists('..\packages\System.Text.Json.6.0.1\build\System.Text.Json.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Text.Json.6.0.1\build\System.Text.Json.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Text.Json.6.0.1\build\System.Text.Json.targets'))" />
+  </Target>
+</Project>
