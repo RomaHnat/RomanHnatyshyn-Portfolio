@@ -1,0 +1,53 @@
+doctype html
+html
+  head
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+    title= title
+    link(rel='stylesheet', href='/stylesheets/bootstrap.min.css')
+    link(rel='stylesheet', href='/stylesheets/font-awesome.min.css')
+    link(rel='stylesheet', href='/stylesheets/style.css')
+  body
+    nav.navbar.fixed-top.navbar-toggleable-md.navbar-inverse
+      .container
+        button.navbar-toggler.navbar-toggler-right(type='button', data-toggle='collapse', data-target='#navbarMain')
+          span.navbar-toggler-icon
+        a.navbar-brand(href='/games-list') Gamer<sup>2</sup>
+        #navbarMain.navbar-collapse.collapse
+          ul.navbar-nav.mr-auto
+            li.nav-item
+              a.nav-link(href='/about') About
+            li.nav-item
+              a.nav-link(href='/ ' id='logout-link') Log Out
+
+    .container
+      block content
+
+    script(src='https://code.jquery.com/jquery-3.1.1.slim.min.js')
+    script(src='https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js')
+    script(src='/javascripts/bootstrap.min.js')
+
+    block scripts
+    script.
+      document.addEventListener('DOMContentLoaded', function() {
+        document.getElementById('logout-link').addEventListener('click', function(event) {
+          event.preventDefault();
+
+          fetch('/api/logout', {
+            method: 'GET',
+            headers: {
+              'Content-Type': 'application/json'
+            }
+          })
+          .then(response => response.json())
+          .then(data => {
+            if (data.success) {
+              window.location.href = '/'; // Redirect to the login page after successful logout
+            } else {
+              alert(data.message); // Display an error message if logout fails
+            }
+          })
+          .catch((error) => {
+            console.error('Error:', error);
+          });
+        });
+      });

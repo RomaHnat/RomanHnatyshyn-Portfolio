@@ -1,0 +1,20 @@
+extends layout
+
+include _includes/sharedHTMLfunctions
+
+block content
+  .row.banner
+    .col-12
+      h1= pageHeader.title
+        small &nbsp;#{pageHeader.strapline}
+  .row
+    .col-12
+
+      app-games-list Loading
+    
+block scripts
+
+ script(src='/build/runtime.2c738d78a0dc7c1f.js')
+ script(src='/build/polyfills.f49bae31afb7cfa3.js')
+ script(src='/build/main.13da70044c473ee2.js')
+ 
